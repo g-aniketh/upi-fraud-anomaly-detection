@@ -76,4 +76,6 @@ Outputs (saved by the script):
 - Vivin Chandrra Paasam
 - Topalle Siddha Sankalp
 - Aniketh Gandhari
+- Syeda Sayeeda Farhath
+- Dhiren Rao B.
 - Y. Vijayalata
