@@ -41,7 +41,6 @@ pip install captum kagglehub
 Notes:
 
 - `torch-geometric` has platform-specific wheels; follow the official install instructions for the correct command matching your CUDA and PyTorch versions.
-- If you don't want to use `kagglehub`, download the dataset manually and update the path in `script.py`.
 
 **Quick Start**
 
@@ -76,6 +75,6 @@ Outputs (saved by the script):
 - Vivin Chandrra Paasam
 - Topalle Siddha Sankalp
 - Aniketh Gandhari
-- Syeda Sayeeda Farhath 
+- Syeda Sayeeda Farhath
 - Dhiren Rao B.
 - Y. Vijayalata
